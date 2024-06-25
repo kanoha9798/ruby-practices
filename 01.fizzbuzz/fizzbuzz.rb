@@ -10,6 +10,4 @@
   else
     puts number
   end
-  end
-
-#2回目の提出
+end
