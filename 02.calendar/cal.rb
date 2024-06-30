@@ -33,6 +33,7 @@ print "   " * first_wday
       date.saturday?
       puts
     end
+    
     if
       date == end_date
       puts 
