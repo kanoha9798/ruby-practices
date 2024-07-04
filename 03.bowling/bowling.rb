@@ -30,7 +30,6 @@ end
 frames[-1].compact!
 
 p frames
-p frames[-1]
 
 
 point = 0
